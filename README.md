@@ -12,8 +12,8 @@
 
 ## <a name="Section1"></a>Section1
 
-## <a name="UPPER"></a>UPPER
+## <a name="UPPER"></a>UPPER case
 
-## <a name="lower"></a>lower
+## <a name="lower"></a>lower case
 
-## <a name="MiXeD"></a>MiXeD
+## <a name="MiXeD"></a>MiXeD case
